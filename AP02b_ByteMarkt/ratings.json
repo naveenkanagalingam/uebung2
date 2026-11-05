@@ -1,0 +1,948 @@
+{
+  "meta": {
+    "api_version": "v2",
+    "endpoint": "/v2/ratings?category=notebooks",
+    "retrieved_at": "2026-09-15T08:30:00+02:00",
+    "total": 134
+  },
+  "data": [
+    {
+      "product_id": "BM-19944",
+      "rating": {
+        "count": 40,
+        "avg": 3.1
+      }
+    },
+    {
+      "product_id": "BM-19957",
+      "rating": {
+        "count": 40,
+        "avg": 3.3
+      }
+    },
+    {
+      "product_id": "BM-19961",
+      "rating": {
+        "count": 72,
+        "avg": 4.2
+      }
+    },
+    {
+      "product_id": "BM-19978",
+      "rating": {
+        "count": 132,
+        "avg": 3.3
+      }
+    },
+    {
+      "product_id": "BM-19983",
+      "rating": {
+        "count": 117,
+        "avg": 3.7
+      }
+    },
+    {
+      "product_id": "BM-19990",
+      "rating": {
+        "count": 52,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20002",
+      "rating": {
+        "count": 16,
+        "avg": 3.9
+      }
+    },
+    {
+      "product_id": "BM-20003",
+      "rating": {
+        "count": 81,
+        "avg": 4.4
+      }
+    },
+    {
+      "product_id": "BM-20004",
+      "rating": {
+        "count": 61,
+        "avg": 4.3
+      }
+    },
+    {
+      "product_id": "BM-20006",
+      "rating": {
+        "count": 26,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20007",
+      "rating": {
+        "count": 258,
+        "avg": 4.5
+      }
+    },
+    {
+      "product_id": "BM-20008",
+      "rating": {
+        "count": 17,
+        "avg": 4.6
+      }
+    },
+    {
+      "product_id": "BM-20010",
+      "rating": {
+        "count": 250,
+        "avg": 4.0
+      }
+    },
+    {
+      "product_id": "BM-20011",
+      "rating": {
+        "count": 11,
+        "avg": 4.4
+      }
+    },
+    {
+      "product_id": "BM-20012",
+      "rating": {
+        "count": 18,
+        "avg": 4.2
+      }
+    },
+    {
+      "product_id": "BM-20014",
+      "rating": {
+        "count": 34,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20015",
+      "rating": {
+        "count": 92,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20017",
+      "rating": {
+        "count": 31,
+        "avg": 4.3
+      }
+    },
+    {
+      "product_id": "BM-20019",
+      "rating": {
+        "count": 120,
+        "avg": 4.5
+      }
+    },
+    {
+      "product_id": "BM-20020",
+      "rating": {
+        "count": 43,
+        "avg": 4.0
+      }
+    },
+    {
+      "product_id": "BM-20021",
+      "rating": {
+        "count": 46,
+        "avg": 4.2
+      }
+    },
+    {
+      "product_id": "BM-20022",
+      "rating": {
+        "count": 56,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20023",
+      "rating": {
+        "count": 41,
+        "avg": 4.2
+      }
+    },
+    {
+      "product_id": "BM-20024",
+      "rating": {
+        "count": 37,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20025",
+      "rating": {
+        "count": 15,
+        "avg": 3.5
+      }
+    },
+    {
+      "product_id": "BM-20026",
+      "rating": {
+        "count": 19,
+        "avg": 3.9
+      }
+    },
+    {
+      "product_id": "BM-20028",
+      "rating": {
+        "count": 108,
+        "avg": 4.9
+      }
+    },
+    {
+      "product_id": "BM-20029",
+      "rating": {
+        "count": 71,
+        "avg": 3.7
+      }
+    },
+    {
+      "product_id": "BM-20030",
+      "rating": {
+        "count": 56,
+        "avg": 3.6
+      }
+    },
+    {
+      "product_id": "BM-20032",
+      "rating": {
+        "count": 8,
+        "avg": 4.2
+      }
+    },
+    {
+      "product_id": "BM-20034",
+      "rating": {
+        "count": 43,
+        "avg": 3.8
+      }
+    },
+    {
+      "product_id": "BM-20036",
+      "rating": {
+        "count": 18,
+        "avg": 4.5
+      }
+    },
+    {
+      "product_id": "BM-20037",
+      "rating": {
+        "count": 19,
+        "avg": 4.5
+      }
+    },
+    {
+      "product_id": "BM-20038",
+      "rating": {
+        "count": 25,
+        "avg": 4.2
+      }
+    },
+    {
+      "product_id": "BM-20039",
+      "rating": {
+        "count": 94,
+        "avg": 4.9
+      }
+    },
+    {
+      "product_id": "BM-20040",
+      "rating": {
+        "count": 100,
+        "avg": 4.9
+      }
+    },
+    {
+      "product_id": "BM-20041",
+      "rating": {
+        "count": 121,
+        "avg": 4.5
+      }
+    },
+    {
+      "product_id": "BM-20043",
+      "rating": {
+        "count": 51,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20044",
+      "rating": {
+        "count": 37,
+        "avg": 4.7
+      }
+    },
+    {
+      "product_id": "BM-20045",
+      "rating": {
+        "count": 54,
+        "avg": 4.5
+      }
+    },
+    {
+      "product_id": "BM-20046",
+      "rating": {
+        "count": 39,
+        "avg": 4.5
+      }
+    },
+    {
+      "product_id": "BM-20048",
+      "rating": {
+        "count": 69,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20049",
+      "rating": {
+        "count": 24,
+        "avg": 4.5
+      }
+    },
+    {
+      "product_id": "BM-20050",
+      "rating": {
+        "count": 9,
+        "avg": 4.6
+      }
+    },
+    {
+      "product_id": "BM-20051",
+      "rating": {
+        "count": 16,
+        "avg": 4.6
+      }
+    },
+    {
+      "product_id": "BM-20052",
+      "rating": {
+        "count": 16,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20053",
+      "rating": {
+        "count": 14,
+        "avg": 4.8
+      }
+    },
+    {
+      "product_id": "BM-20054",
+      "rating": {
+        "count": 39,
+        "avg": 4.8
+      }
+    },
+    {
+      "product_id": "BM-20056",
+      "rating": {
+        "count": 19,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20057",
+      "rating": {
+        "count": 20,
+        "avg": 4.4
+      }
+    },
+    {
+      "product_id": "BM-20058",
+      "rating": {
+        "count": 98,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20059",
+      "rating": {
+        "count": 40,
+        "avg": 4.3
+      }
+    },
+    {
+      "product_id": "BM-20061",
+      "rating": {
+        "count": 36,
+        "avg": 4.4
+      }
+    },
+    {
+      "product_id": "BM-20062",
+      "rating": {
+        "count": 195,
+        "avg": 4.2
+      }
+    },
+    {
+      "product_id": "BM-20063",
+      "rating": {
+        "count": 17,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20064",
+      "rating": {
+        "count": 45,
+        "avg": 3.2
+      }
+    },
+    {
+      "product_id": "BM-20065",
+      "rating": {
+        "count": 70,
+        "avg": 4.3
+      }
+    },
+    {
+      "product_id": "BM-20067",
+      "rating": {
+        "count": 35,
+        "avg": 4.3
+      }
+    },
+    {
+      "product_id": "BM-20068",
+      "rating": {
+        "count": 33,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20069",
+      "rating": {
+        "count": 38,
+        "avg": 4.5
+      }
+    },
+    {
+      "product_id": "BM-20071",
+      "rating": {
+        "count": 332,
+        "avg": 4.3
+      }
+    },
+    {
+      "product_id": "BM-20072",
+      "rating": {
+        "count": 12,
+        "avg": 4.4
+      }
+    },
+    {
+      "product_id": "BM-20073",
+      "rating": {
+        "count": 76,
+        "avg": 4.9
+      }
+    },
+    {
+      "product_id": "BM-20074",
+      "rating": {
+        "count": 129,
+        "avg": 3.8
+      }
+    },
+    {
+      "product_id": "BM-20076",
+      "rating": {
+        "count": 30,
+        "avg": 4.4
+      }
+    },
+    {
+      "product_id": "BM-20079",
+      "rating": {
+        "count": 21,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20080",
+      "rating": {
+        "count": 151,
+        "avg": 4.5
+      }
+    },
+    {
+      "product_id": "BM-20081",
+      "rating": {
+        "count": 81,
+        "avg": 4.4
+      }
+    },
+    {
+      "product_id": "BM-20082",
+      "rating": {
+        "count": 17,
+        "avg": 4.4
+      }
+    },
+    {
+      "product_id": "BM-20083",
+      "rating": {
+        "count": 41,
+        "avg": 4.0
+      }
+    },
+    {
+      "product_id": "BM-20085",
+      "rating": {
+        "count": 21,
+        "avg": 4.2
+      }
+    },
+    {
+      "product_id": "BM-20086",
+      "rating": {
+        "count": 82,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20087",
+      "rating": {
+        "count": 57,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20089",
+      "rating": {
+        "count": 72,
+        "avg": 4.6
+      }
+    },
+    {
+      "product_id": "BM-20091",
+      "rating": {
+        "count": 85,
+        "avg": 4.8
+      }
+    },
+    {
+      "product_id": "BM-20092",
+      "rating": {
+        "count": 310,
+        "avg": 4.3
+      }
+    },
+    {
+      "product_id": "BM-20093",
+      "rating": {
+        "count": 62,
+        "avg": 4.3
+      }
+    },
+    {
+      "product_id": "BM-20094",
+      "rating": {
+        "count": 23,
+        "avg": 4.7
+      }
+    },
+    {
+      "product_id": "BM-20095",
+      "rating": {
+        "count": 116,
+        "avg": 4.3
+      }
+    },
+    {
+      "product_id": "BM-20096",
+      "rating": {
+        "count": 238,
+        "avg": 4.5
+      }
+    },
+    {
+      "product_id": "BM-20097",
+      "rating": {
+        "count": 14,
+        "avg": 4.4
+      }
+    },
+    {
+      "product_id": "BM-20098",
+      "rating": {
+        "count": 154,
+        "avg": 4.9
+      }
+    },
+    {
+      "product_id": "BM-20099",
+      "rating": {
+        "count": 202,
+        "avg": 3.9
+      }
+    },
+    {
+      "product_id": "BM-20100",
+      "rating": {
+        "count": 10,
+        "avg": 4.3
+      }
+    },
+    {
+      "product_id": "BM-20101",
+      "rating": {
+        "count": 34,
+        "avg": 4.4
+      }
+    },
+    {
+      "product_id": "BM-20102",
+      "rating": {
+        "count": 26,
+        "avg": 4.9
+      }
+    },
+    {
+      "product_id": "BM-20103",
+      "rating": {
+        "count": 42,
+        "avg": 4.3
+      }
+    },
+    {
+      "product_id": "BM-20104",
+      "rating": {
+        "count": 23,
+        "avg": 4.4
+      }
+    },
+    {
+      "product_id": "BM-20105",
+      "rating": {
+        "count": 152,
+        "avg": 4.2
+      }
+    },
+    {
+      "product_id": "BM-20107",
+      "rating": {
+        "count": 23,
+        "avg": 4.7
+      }
+    },
+    {
+      "product_id": "BM-20109",
+      "rating": {
+        "count": 61,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20111",
+      "rating": {
+        "count": 30,
+        "avg": 4.3
+      }
+    },
+    {
+      "product_id": "BM-20113",
+      "rating": {
+        "count": 348,
+        "avg": 3.8
+      }
+    },
+    {
+      "product_id": "BM-20115",
+      "rating": {
+        "count": 22,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20116",
+      "rating": {
+        "count": 195,
+        "avg": 4.7
+      }
+    },
+    {
+      "product_id": "BM-20118",
+      "rating": {
+        "count": 32,
+        "avg": 3.6
+      }
+    },
+    {
+      "product_id": "BM-20119",
+      "rating": {
+        "count": 101,
+        "avg": 4.4
+      }
+    },
+    {
+      "product_id": "BM-20120",
+      "rating": {
+        "count": 44,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20121",
+      "rating": {
+        "count": 318,
+        "avg": 3.9
+      }
+    },
+    {
+      "product_id": "BM-20123",
+      "rating": {
+        "count": 33,
+        "avg": 4.9
+      }
+    },
+    {
+      "product_id": "BM-20124",
+      "rating": {
+        "count": 705,
+        "avg": 3.8
+      }
+    },
+    {
+      "product_id": "BM-20125",
+      "rating": {
+        "count": 32,
+        "avg": 3.7
+      }
+    },
+    {
+      "product_id": "BM-20126",
+      "rating": {
+        "count": 86,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20127",
+      "rating": {
+        "count": 79,
+        "avg": 4.2
+      }
+    },
+    {
+      "product_id": "BM-20128",
+      "rating": {
+        "count": 88,
+        "avg": 3.9
+      }
+    },
+    {
+      "product_id": "BM-20129",
+      "rating": {
+        "count": 325,
+        "avg": 4.3
+      }
+    },
+    {
+      "product_id": "BM-20131",
+      "rating": {
+        "count": 15,
+        "avg": 3.6
+      }
+    },
+    {
+      "product_id": "BM-20132",
+      "rating": {
+        "count": 217,
+        "avg": 4.3
+      }
+    },
+    {
+      "product_id": "BM-20134",
+      "rating": {
+        "count": 7,
+        "avg": 4.3
+      }
+    },
+    {
+      "product_id": "BM-20135",
+      "rating": {
+        "count": 55,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20136",
+      "rating": {
+        "count": 21,
+        "avg": 4.6
+      }
+    },
+    {
+      "product_id": "BM-20137",
+      "rating": {
+        "count": 116,
+        "avg": 4.7
+      }
+    },
+    {
+      "product_id": "BM-20139",
+      "rating": {
+        "count": 46,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20143",
+      "rating": {
+        "count": 280,
+        "avg": 4.9
+      }
+    },
+    {
+      "product_id": "BM-20144",
+      "rating": {
+        "count": 75,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20146",
+      "rating": {
+        "count": 48,
+        "avg": 4.6
+      }
+    },
+    {
+      "product_id": "BM-20147",
+      "rating": {
+        "count": 24,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20148",
+      "rating": {
+        "count": 51,
+        "avg": 4.5
+      }
+    },
+    {
+      "product_id": "BM-20150",
+      "rating": {
+        "count": 45,
+        "avg": 4.9
+      }
+    },
+    {
+      "product_id": "BM-20152",
+      "rating": {
+        "count": 191,
+        "avg": 4.5
+      }
+    },
+    {
+      "product_id": "BM-20153",
+      "rating": {
+        "count": 166,
+        "avg": 4.1
+      }
+    },
+    {
+      "product_id": "BM-20154",
+      "rating": {
+        "count": 60,
+        "avg": 3.2
+      }
+    },
+    {
+      "product_id": "BM-20155",
+      "rating": {
+        "count": 6,
+        "avg": 4.0
+      }
+    },
+    {
+      "product_id": "BM-20157",
+      "rating": {
+        "count": 149,
+        "avg": 3.9
+      }
+    },
+    {
+      "product_id": "BM-20158",
+      "rating": {
+        "count": 19,
+        "avg": 4.2
+      }
+    },
+    {
+      "product_id": "BM-20160",
+      "rating": {
+        "count": 33,
+        "avg": 4.2
+      }
+    },
+    {
+      "product_id": "BM-20162",
+      "rating": {
+        "count": 84,
+        "avg": 4.5
+      }
+    },
+    {
+      "product_id": "BM-20164",
+      "rating": {
+        "count": 29,
+        "avg": 4.2
+      }
+    },
+    {
+      "product_id": "BM-20165",
+      "rating": {
+        "count": 192,
+        "avg": 3.6
+      }
+    },
+    {
+      "product_id": "BM-20166",
+      "rating": {
+        "count": 100,
+        "avg": 3.9
+      }
+    },
+    {
+      "product_id": "BM-20168",
+      "rating": {
+        "count": 16,
+        "avg": 4.5
+      }
+    },
+    {
+      "product_id": "BM-20170",
+      "rating": {
+        "count": 101,
+        "avg": 4.3
+      }
+    },
+    {
+      "product_id": "BM-20171",
+      "rating": {
+        "count": 23,
+        "avg": 4.5
+      }
+    },
+    {
+      "product_id": "BM-20172",
+      "rating": {
+        "count": 61,
+        "avg": 3.9
+      }
+    }
+  ]
+}
